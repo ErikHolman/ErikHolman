@@ -6,9 +6,6 @@ I'm Erik. A lead Software Engineer with 10+ years of experience in developing an
 - A [React-based new tab for Chrome](https://github.com/ErikHolman/countdown-caddy), for personal countdowns
 - A [Vue portfolio site](https://github.com/ErikHolman/MySpEHce) for erik.holman.dev
 
-
-🧟‍♂️ [My Linktr.ee](https://linktr.ee/erikholman)
-
 <!--
 **ErikHolman/ErikHolman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
