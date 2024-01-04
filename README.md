@@ -4,7 +4,6 @@ I'm Erik. A lead Software Engineer with 10+ years of experience in developing an
 ## 🔭 I’m currently working on:
 - A [Python Pomodero Timer](https://github.com/ErikHolman/pomodoro)
 - A [React-based new tab for Chrome](https://github.com/ErikHolman/countdown-caddy), for personal countdowns
-- A [Vue portfolio site](https://github.com/ErikHolman/MySpEHce) for erik.holman.dev
 
 <!--
 **ErikHolman/ErikHolman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
