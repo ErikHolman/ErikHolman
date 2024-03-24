@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Erik--a lead Front End Developer with 10+ years of experience in developing and delivering high-quality software. Proven ability to lead and mentor teams, collaborate effectively with cross-functional stakeholders, and adhere to best practices in software development. Expertise in Vue, React, Node.js, and LeanUX.
+I'm Erik. A lead Front End Developer with 10+ years of experience in developing and delivering high-quality software. Proven ability to lead and mentor teams, collaborate effectively with cross-functional stakeholders, and adhere to best practices in software development. Expertise in Vue, React, Node.js, and LeanUX.
 
 ## 🔭 I’m currently working on:
 - A Scavenger Hunt / Race project [React / TS / Vite]. 
