@@ -2,7 +2,7 @@
 I'm Erik. A lead Front End Developer with 10+ years of experience in developing and delivering high-quality software. Proven ability to lead and mentor teams, collaborate effectively with cross-functional stakeholders, and adhere to best practices in software development. Expertise in Vue, React, Node.js, and LeanUX.
 
 ## 🔭 I’m currently working on:
-- A Scavenger Hunt / Race project [React / TS / Vite]. 
+- A Scavenger Hunt project. Particients race around the town we live in and solve puzzles. Started as a multi-leg race with paper clues for family in the summer of 2020. Now we're going into year 5 it is time to ditch the paper clues. [React / TS / Vite]. 
 
 <!--
 **ErikHolman/ErikHolman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
