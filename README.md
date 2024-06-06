@@ -19,7 +19,7 @@ I'm Erik, a full-Stack Developer crafting user-centric web apps. Currently using
 -->
 
 ## 👯 I’m looking to collaborate on:
-- 🎓 Education projects - Projects that help users understand the Social Media
+- 🎓 Education projects - Projects that help users understand the security behind Social Media and the Internet
 - 💸 Non-profit projects - Projects that non-profit organizations use to promote their cause
 - 🕹️ Gaming projects - Retro style gaming projects that target a native Steam Deck release--looking to contribute in any capacity
 
