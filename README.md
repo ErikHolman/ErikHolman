@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Erik, a full-Stack Developer crafting user-centric web apps. Currently using React, Node.js, and PostgreSQL to build both front-end and back-end functionalities. Successfully led cross-functional projects, improved user experience through UI redesign, and integrated data for seamless operation. Eager to expand skills and maintaining a growth mindset to contribute to a team building innovative solutions.
+I'm Erik, a Full-Stack Developer crafting user-centric web apps. Currently using React, Node.js, and PostgreSQL to build both front-end and back-end functionalities. Successfully led cross-functional projects, improved user experience through UI redesign, and integrated data for seamless operation. Eager to expand skills and maintaining a growth mindset to contribute to a team building innovative solutions.
 
 ## 🔭 I’m currently working on:
 - [Scavenger Race](https://github.com/ErikHolman/scavenger-race) (_PERN_)
